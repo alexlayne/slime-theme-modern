@@ -1,4 +1,8 @@
-vsc-extension-quickstart.md
-screenshot.png
+.git/**
 .gitignore
-.vscode
+.vscode/**
+screenshots/**
+screenshot.png
+icon.svg
+vsc-extension-quickstart.md
+*.vsix

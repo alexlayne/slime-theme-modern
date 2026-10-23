@@ -1,15 +1,15 @@
 {
     "name": "slime",
     "displayName": "Slime Theme",
-    "description": "A port of my Atom theme",
-    "version": "3.2.1",
+    "description": "A port of my Atom theme, updated for modern VS Code",
+    "version": "4.0.0",
     "publisher": "smlombardi",
     "repository": {
         "type": "git",
-        "url": "https://github.com/smlombardi/theme-slime.git"
+        "url": "https://github.com/alexlayne/slime-theme-modern.git"
     },
     "engines": {
-        "vscode": "*"
+        "vscode": "^1.80.0"
     },
     "categories": [
         "Themes"
@@ -23,10 +23,5 @@
                 "path": "./themes/slime-color-theme.json"
             }
         ]
-    },
-    "__metadata": {
-        "id": "735af542-944f-4b07-b336-9df27d7b8d84",
-        "publisherId": "9da64a38-f7e7-4220-b7b7-ea8baa506bf6",
-        "publisherDisplayName": "smlombardi"
     }
 }
