@@ -4,7 +4,7 @@ A dark workbench and syntax theme for [Visual Studio Code](https://code.visualst
 
 **Slime was designed and created by [Steve Lombardi](https://github.com/smlombardi).** This repository is a fork of the original [Slime theme for VS Code](https://github.com/smlombardi/theme-slime), which was itself a port of Steve's [Slime Atom theme](https://github.com/smlombardi/slime).
 
-The original hasn't been updated since early 2020, and VS Code has added a lot of UI and highlighting features since then. This fork only brings the theme up to date: it keeps all of Steve's original colors and fills in what's missing, using the existing Slime palette. Alex Layne made the compatibility updates.
+The original hasn't been updated since early 2020, and VS Code has added a lot of UI and highlighting features since then. This fork only brings the theme up to date: it keeps all of Steve's original colors and fills in what's missing, using the existing Slime palette.
 
 ## What's changed from the original
 
