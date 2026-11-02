@@ -2,7 +2,4 @@
 .gitignore
 .vscode/**
 screenshots/**
-screenshot.png
-icon.svg
-vsc-extension-quickstart.md
 *.vsix
