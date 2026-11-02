@@ -46,7 +46,7 @@ Then pick **Slime** from **Preferences: Color Theme**, or set it in `settings.js
 "workbench.colorTheme": "Slime"
 ```
 
-The extension ID is still `smlombardi.slime`, so it replaces the original Marketplace version if you have it installed.
+The extension ID is `alexlayne.slime`, so it installs alongside the original Marketplace version (`smlombardi.slime`) rather than replacing it. You can have both installed and pick either one as your color theme.
 
 ## Italic comments
 
