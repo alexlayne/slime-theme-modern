@@ -4,6 +4,7 @@
     "description": "Modernized fork of Slime, a VS Code port of Steve Lombardi's Atom theme",
     "version": "4.0.0",
     "publisher": "alexlayne",
+    "author": "Alex Layne",
     "repository": {
         "type": "git",
         "url": "https://github.com/alexlayne/slime-theme-modern.git"
